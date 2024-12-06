@@ -16,10 +16,10 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page Preview](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
+![Home Page Preview](screenshot1.png)
 
 ### Search Results
-![Search Results Preview](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
+![Search Results Preview](screenshot.png)
 
 ---
 
