@@ -1,10 +1,10 @@
-# 🎥 MOV SITE: Discover Your Next Favorite Movie!
+# MOV SITE: Discover Your Next Favorite Movie!
 
 Welcome to **MOV SITE**, your one-stop destination to explore and discover amazing movies. Powered by **The Movie Database (TMDb)** API, this site allows you to browse popular movies or search for your favorites with ease. 🌟
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Dynamic Movie Gallery:** Automatically fetches and displays the most popular movies.
 - **Search Functionality:** Find movies by title using a clean and intuitive search bar.
@@ -13,7 +13,7 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home Page Preview](screenshot1.png)
@@ -23,7 +23,7 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and creating a visually appealing layout.
@@ -32,7 +32,7 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 
 ---
 
-## 🌟 How It Works
+## How It Works
 
 1. **Fetch Popular Movies:** On loading the site, the most popular movies are fetched and displayed.
 2. **Search Movies:** Type a movie name into the search bar and hit "Enter" to find what you're looking for.
@@ -40,7 +40,7 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 
 ---
 
-## 🖥️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - A modern web browser.
@@ -61,7 +61,7 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
 
 ---
 
-## 📁 File Structure
+## File Structure
   ```graphql
   mov-site/
   ├── index.html      # Main HTML file
@@ -69,14 +69,14 @@ Welcome to **MOV SITE**, your one-stop destination to explore and discover amazi
   ├── script.js       # JavaScript file for API interaction
   └── README.md       # Project documentation
 ```
-## 🛠️ Future Enhancements
+## Future Enhancements
 - Add filters for genres, release dates, and ratings.
 - Include a "Load More" button for pagination.
 - Implement a detailed movie page with description and trailers.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 - **TMDIb API:** For providing a robust database of movies.
 - **You:** For exploring my repo's and this project.
 
