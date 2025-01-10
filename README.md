@@ -1,6 +1,6 @@
 # MOV SITE: Discover Your Next Favorite Movie!
 
-Welcome to **MOV SITE**, your one-stop destination to explore and discover amazing movies. Powered by **The Movie Database (TMDb)** API, this site allows you to browse popular movies or search for your favorites with ease. 🌟
+Welcome to **MOV SITE**, your one-stop destination to explore and discover amazing movies. Powered by **The Movie Database (TMDb)** API, this site allows you to browse popular movies or search for your favorites with ease.
 
 ---
 
